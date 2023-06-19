@@ -8,6 +8,9 @@ This is also my first time using "Projects" in GitHub.
 17.06.23:  
 Added initial commit via PyCharm using VCS (Git).  
 Added some tasks in "Projects".  
+
+19.06.23:  
+Added first version of the [specification](https://docs.google.com/document/d/1MUWIgU1qdO_atByDff7IcsUQq_HqvEZiUhnUUEXPj-Q/edit?usp=sharing).
 ## To do in first line
 Need to finish specification.  
 This document will be updated during process.
